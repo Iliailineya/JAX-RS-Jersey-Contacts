@@ -1,0 +1,9 @@
+окт. 05, 2023 6:55:10 PM org.example.app.utils.AppStarter runApp
+INFO: Application running on http://localhost:8082/
+
+окт. 05, 2023 6:55:46 PM org.example.app.service.ContactService createContact
+INFO: POST request received to create contact with ID: 5
+окт. 05, 2023 6:55:46 PM org.example.app.service.ContactService createContact
+INFO: Contact created with ID: 5
+окт. 05, 2023 6:56:01 PM org.example.app.service.ContactService getContacts
+INFO: GET request received for contacts.
